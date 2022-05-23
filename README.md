@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/igorx8%22%3E">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorx8&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/%3E"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorx8&layout=compact&langs_count=7&theme=synthwave%22/%3E"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukeiayf&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/%3E"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeiayf&layout=compact&langs_count=7&theme=synthwave%22/%3E"/>
 </div>
 
  <div style="display: inline_block"><br>
