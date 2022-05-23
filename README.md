@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**lukeiayf/lukeiayf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/igorx8%22%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorx8&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorx8&layout=compact&langs_count=7&theme=synthwave%22/%3E
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Igor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
+  <img align="center" alt="Igor-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg%22%3E
+  <img align="center" alt="Igor-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg%22%3E
+  <img align="center" alt="Igor-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg%22%3E
+  <img align="center" alt="Igor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg%22%3E
+  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg%22%3E
+  <img align="center" alt="Igor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg%22%3E
+</div>
