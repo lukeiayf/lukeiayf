@@ -1,7 +1,11 @@
 ### Hi there 👋
-
+## My name is Lucas Gomes
+(Java | Vue | Typescript | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Software Enginner with background in Communications and Design
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 <div>
-  <a href="https://github.com/igorx8%22%3E">
+  <a href="https://github.com/lukeiayf/lukeiayf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lukeiayf&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/%3E"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeiayf&layout=compact&langs_count=7&theme=synthwave%22/%3E"/>
 </div>
